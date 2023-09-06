@@ -1,0 +1,37 @@
+La aplicacion esta echa con node.js como back-end, y react como front-end.
+--------------------------------------------------------------------------------------
+BACK-END 
+
+Node.js
+
+--DEPENDENCIAS--
+- Express
+- Cors 
+- MySQL2
+- Sequelize
+
+ORIENTADO EN EL PATRON MVC
+
+Ultilice Async/Await para manejar operaciones asincrónicas.
+
+--------------------------------------------------------------------------------------
+FRONT-END 
+
+React.js
+
+--DEPENDENCIAS--
+- BOOTSTRAP
+- react-router-dom
+- Axios
+
+Utilice hooks.
+
+--------------------------------------------------------------------------------------
+Dejo los escripts de la base de datos en la carpeta DB
+-------------------------------------------------------------------------------------- 
+
+Para correr la aplicacion, desde la carpeta node, en un terminal ejecutas el comando npm run start, para que inicie el servidor, compruebas que el servidor sirve con http://localhost:8000/ y debe mostrar el mensaje 'Server On'.
+
+para correr react, desde la carpeta de react-front-end en un terminal ejecutas el comando npm start.
+
+
